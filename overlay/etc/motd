@@ -1,0 +1,10 @@
+-- influxdb for FreeNAS --
+
+- edit influxdb config file:
+    ee <todo>
+
+- control influxdb service:
+    service influxdb [restart|start|status|stop]
+
+------------------------------------------------------
+
