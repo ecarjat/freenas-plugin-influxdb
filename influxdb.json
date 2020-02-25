@@ -1,7 +1,7 @@
 {
   "name": "influxdb",                                                             
   "release": "11.2-RELEASE",                                                    
-  "artifact": "https://github.com/steiny2k/freenas-plugin-influxdb.git", 
+  "artifact": "https://github.com/ecarjat/freenas-plugin-influxdb.git", 
   "pkgs": [
     "databases/influxdb"
       ],
