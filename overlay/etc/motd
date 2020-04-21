@@ -4,7 +4,7 @@
     ee <todo>
 
 - control influxdb service:
-    service influxdb [restart|start|status|stop]
+    service influxd [restart|start|status|stop]
 
 ------------------------------------------------------
 
